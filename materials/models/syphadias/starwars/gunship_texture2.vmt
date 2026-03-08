@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/syphadias/starwars/gunship_texture2"
+	"$surfaceprop" "metal"
+	"$model" 1
+}
